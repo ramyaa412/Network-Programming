@@ -1,0 +1,15 @@
+﻿  client_main.c
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(64): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(64): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(35): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): note: see declaration of 'gethostbyname'
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(44): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(65): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(66): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: see declaration of 'strtok'
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(75): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\danica\documents\visual studio 2015\projects\client\client\client_main.c(15): warning C4101: 'msg': unreferenced local variable
+  Client.vcxproj -> C:\Users\Danica\documents\visual studio 2015\Projects\Client\Debug\Client.exe
